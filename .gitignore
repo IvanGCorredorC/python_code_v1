@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store # Para macOS
+*.env # Archivos de entorno
+venv/ # Entornos virtuales
